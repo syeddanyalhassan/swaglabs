@@ -14,6 +14,17 @@ We have package.json file available which contains two scripts that will be used
 
 ![image](https://user-images.githubusercontent.com/34996741/201511100-a04bedbd-4d02-43b4-b007-37536c68e398.png)
 
+# Installation
+
+You need to install follwing plugins before proceeding with test execution 
+
+- For Cypress
+
+npm i cypress
+
+- For Allure Reporting
+
+npm i -D @shelex/cypress-allure-plugin
 
 
 # Execute Specs for Testing
