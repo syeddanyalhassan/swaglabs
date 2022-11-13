@@ -1,6 +1,6 @@
 # swaglabs
 
-#File Structure 
+# File Structure 
 
 - To navigate to project structure please go to Desktop->Cypress
 
@@ -12,10 +12,11 @@ Specs are defined under ../integration/testsuites/ where you will find sauceDemo
 
 We have package.json file available which contains two scripts that will be used for executing specs along with running allure report.
 
+![image](https://user-images.githubusercontent.com/34996741/201511100-a04bedbd-4d02-43b4-b007-37536c68e398.png)
 
 
 
-#For Running test script
+# Execute Specs for Testing
 
 Use following command to execute specs as follows: 
 
@@ -31,7 +32,7 @@ This command will execute behind the scene command which is cypress run --spec c
 
 ![image](https://user-images.githubusercontent.com/34996741/201510676-f4bd98f2-9dda-4013-af98-516ff1398ab8.png)
 
-#For Showing Test Results In Allure Report 
+# For Showing Test Results In Allure Report 
 
 Use the following for generating allure report as follows: 
 
@@ -66,7 +67,3 @@ You may also check the graphical view of test suite success/failure from allure 
 
 ![image](https://user-images.githubusercontent.com/34996741/201510933-4ba3027a-7b4a-44d3-a471-c4b645f259cc.png)
 
-
-
-
-# Execute Test
