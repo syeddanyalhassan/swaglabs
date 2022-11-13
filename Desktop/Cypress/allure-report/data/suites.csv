@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Nov 12 13:56:46 GST 2022","Sat Nov 12 13:56:48 GST 2022","1449","","My Test Suite","","","","Test Case-002 : login using locked_out_user as username and secret_sauce as password",""
+"passed","Sat Nov 12 13:56:48 GST 2022","Sat Nov 12 13:56:49 GST 2022","1647","","My Test Suite","","","","Test Case-003 : login using problem_user as username and secret_sauce as password",""
+"passed","Sat Nov 12 13:56:42 GST 2022","Sat Nov 12 13:56:46 GST 2022","4737","","My Test Suite","","","","Test Case-001 : login using standard_user as username and secret_sauce as password",""
